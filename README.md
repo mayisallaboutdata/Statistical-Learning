@@ -13,6 +13,7 @@ This repository contains the source code and documentation for our final project
 - [Raspberry Pi Implementation](#raspberry-pi-implementation)
 - [Spotify Integration](#spotify-integration)
 - [Results and Future Improvements](#results-and-future-improvements)
+- [Usage](#usage)
 - [Authors](#authors)
 - [References](#references)
 - [License](#license)
