@@ -95,28 +95,6 @@ The project uses the Spotipy library to interact with the Spotify Web API:
   - Spotipy
 - A Spotify Developer account with valid Client ID, Client Secret, and Redirect URI.
 
-### Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/real-time-emotion-detection-spotify.git
-   cd real-time-emotion-detection-spotify
-   ```
-
-2. **Configure Spotify Credentials:**
-   - Update the Python script with your Spotify Client ID, Client Secret, and Redirect URI, or set them as environment variables.
-
-### Running the Project
-
-Run the main Python script to start the emotion detection system:
-```bash
-python emotion_detection.py
-```
-The script will:
-- Capture video from the webcam.
-- Detect and classify emotions in real time.
-- Control Spotify playback based on the detected emotion.
-
 ## Authors
 
 - **Deniz Yilmaz (ID: 2108621)**
@@ -127,7 +105,7 @@ The script will:
 
 ## References
 
-1. Facial Emotion Recognition Dataset, Kaggle.
+1. Facial Emotion Recognition Dataset, Kaggle. Available Here 
 2. Jones et al., "Deep Learning for Real-Time Image Processing on Embedded Devices," 2020.
 3. Smith et al., "Emotion Recognition using Facial Expressions," 2021.
 
